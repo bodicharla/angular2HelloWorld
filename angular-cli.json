@@ -18,7 +18,9 @@
       "prefix": "app",
       "mobile": false,
       "styles": [
-        "styles.css"
+        "styles.css",
+        "assets/css/todomvc-app.css",
+        "assets/css/todomvc-common.css"
       ],
       "scripts": [],
       "environments": {
